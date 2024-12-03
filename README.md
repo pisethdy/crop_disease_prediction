@@ -33,7 +33,7 @@ Ensure you have Python 3.7 or higher installed, and then follow the steps below 
 ### **Step-by-Step Installation**
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/crop-disease-prediction.git
+   git clone https://github.com/pisethdy/crop-disease-prediction.git
    cd crop-disease-prediction
    
 2. **Create a virtual environment** (optional but recommended):
@@ -50,7 +50,7 @@ Ensure you have Python 3.7 or higher installed, and then follow the steps below 
 
 4. **Run the Streamlit app**:
     ```bash
-    streamlit run app.py
+    streamlit run app/main.py
     ```
 
 5. **Open your browser and go to the URL provided in the terminal (e.g., `http://localhost:8501`).**
