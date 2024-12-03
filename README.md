@@ -54,14 +54,3 @@ Ensure you have Python 3.7 or higher installed, and then follow the steps below 
     ```
 
 5. **Open your browser and go to the URL provided in the terminal (e.g., `http://localhost:8501`).**
-
-
-### **🗂️ Folder Structure**
-crop-disease-prediction/
-│
-├── app.py                     # Main application script (Streamlit app)
-├── trained_model/
-│   ├── crop_disease_prediction_model.h5  # Trained model file
-│   └── class_indices.json                 # Class index to label mapping
-├── requirements.txt           # Required Python dependencies
-└── README.md                  # Project documentation
