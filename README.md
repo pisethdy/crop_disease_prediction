@@ -1,4 +1,4 @@
-# **🌱 AI-Powered Crop Disease Prediction Using Convolutional Neural Networks 🌾**
+# **🌱AI-Powered Crop Disease Prediction Using CNN🌾**
 
 Welcome to the **Crop Disease Prediction** project! This interactive web application leverages the power of **AI** and **Convolutional Neural Networks (CNNs)** to identify and classify crop diseases. Users can easily upload images of their crops and receive predictions on potential diseases, along with confidence scores. 
 
