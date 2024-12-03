@@ -1,0 +1,2 @@
+due to large file size, i cannot upload the model on github
+here is the link to download and paste inside "trained_model" file: https://drive.google.com/file/d/1KFzffmEi-2XKAsrwFy4_o1aZHJ7xuFJO/view?usp=sharing
